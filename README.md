@@ -1,3 +1,5 @@
+# Code Written in Spring 2017
+
 # Usage
 
 python3 image_operations.py filename.jpg
