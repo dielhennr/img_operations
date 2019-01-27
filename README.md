@@ -57,4 +57,3 @@ This program takes an image as input and then performs some operation on the ima
 
 ![img](scaled.png)
 
-This photo does not appear to be scaled but it's dimensions have increased by a factor of 3.
